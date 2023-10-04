@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "Dr. John Doe",
+  "specialty": "Cardiologist",
+  "maxAppointments": 10,
+  "appointments": [
+    {
+      "id": 101,
+      "dateTime": "2023-10-01T10:00:00",
+      "available": true
+    },
+    {
+      "id": 102,
+      "dateTime": "2023-10-02T14:30:00",
+      "available": false
+    }
+  ]
+}
